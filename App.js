@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>My 1st git change</Text>
+      <Text>I am learning git</Text>
       <StatusBar style="auto" />
     </View>
   );
