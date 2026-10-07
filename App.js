@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>My first branch</Text>
+      <Text>External teammate is the one that edited it here</Text>
       <Text>I am learning git</Text>
       <Text>Here is the 3rd time</Text>
       <StatusBar style="auto" />
