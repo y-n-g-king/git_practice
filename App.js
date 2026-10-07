@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My 1st git change</Text>
+      <Text>My first branch</Text>
       <Text>I am learning git</Text>
       <Text>Here is the 3rd time</Text>
       <StatusBar style="auto" />
